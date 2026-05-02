@@ -8,3 +8,22 @@
 </h1>
 
 ### I am a full-stack software engineer with a strong foundation in both high-level web architecture and low-level embedded systems.
+
+
+- 🌱 I’m currently learning **Embedded Systems using Bare Metal Programming**
+- 💬 Ask / Chat with me about **C, Operating Systems, Virtual Machines, React...or anything [here](https://github.com/sadeedahmed24/sadeedahmed24/issues)**
+
+<br>
+
+<div align="center">
+  <a href="sadeedahmed24@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/sadeed99/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
+
+  
