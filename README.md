@@ -31,8 +31,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=java,C,C++,react,mongodb,postgres,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,postman,figma" />
 </p>
 
 <hr>
