@@ -34,6 +34,3 @@
   <img src="https://skillicons.dev/icons?i=java,c,cpp,react,mongodb,postgres,python" />
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,postman,figma" />
 </p>
-
-<hr>
-  
